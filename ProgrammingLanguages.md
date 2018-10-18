@@ -16,9 +16,9 @@ www.yuanfudao.com
 ---
 
 ## 阅读材料
-【 七周七语言(卷1）】第2章 Ruby
-【 七周七语言(卷1）】第7章 Clojure
-【 七周七语言(卷1）】第8章 Haskell
+* 【 七周七语言(卷1）】第2章 Ruby
+* 【 七周七语言(卷1）】第7章 Clojure
+* 【 七周七语言(卷1）】第8章 Haskell
 
 ---
 
@@ -46,9 +46,9 @@ www.yuanfudao.com
 ---
 
 ## 深入学习
-【 七周七语言(卷1）】第4章 Prolog
-【 七周七语言(卷2）】第1章 Lua
-【 七周七语言(卷2）】第3章 Elm
-【 七周七语言(卷2）】第5章 Julia
+* 【 七周七语言(卷1）】第4章 Prolog
+* 【 七周七语言(卷2）】第1章 Lua
+* 【 七周七语言(卷2）】第3章 Elm
+* 【 七周七语言(卷2）】第5章 Julia
 
 * [Learn X in Y minutes](https://learnxinyminutes.com/) 有趣的网站，简洁的列出了各个语言的基本语法

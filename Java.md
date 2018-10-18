@@ -112,7 +112,7 @@ objs.add("hello");
 ### Lambda表达式
 * 从匿名类到Lambda表达式
     * 闭包
-    * 有什么区别？
+    * 有什么区别？
 * 函数式接口
     * 函数不是一等公民(first class)
     * 常用接口
@@ -121,7 +121,7 @@ objs.add("hello");
 
 ### Stream
 * 不修改数据源
-* 延迟操作 (lazy execution)
+* 延迟操作 (lazy execution)
 * 副作用 (side effect)
 * 常用操作
 

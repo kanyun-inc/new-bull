@@ -9,8 +9,8 @@ www.yuanfudao.com
 ---
 
 ## 阅读材料
-《Docker 容器与容器云》第3章 Docker 核心原理解读
-《Docker 容器与容器云》第8章 一切皆容器：Kubernetes
+* 《Docker 容器与容器云》第3章 Docker 核心原理解读
+* 《Docker 容器与容器云》第8章 一切皆容器：Kubernetes
 
 ---
 
